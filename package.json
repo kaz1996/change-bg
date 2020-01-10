@@ -4,11 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://kaz1996.github.io/change-bg",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
